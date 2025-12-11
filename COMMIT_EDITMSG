@@ -1,0 +1,10 @@
+Add officer task completion counts to their dashboard
+
+Introduce a new API endpoint and frontend component to display officer statistics, including resolved, in-progress, and work-done complaint counts.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 4cab585d-9b2c-49a1-9949-a965779fd433
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: f0660eeb-f823-4efd-8faa-d1d753c9d04d
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/9766e944-fd48-413e-a25b-06a674e05350/4cab585d-9b2c-49a1-9949-a965779fd433/OQb4mXU
+Replit-Helium-Checkpoint-Created: true
